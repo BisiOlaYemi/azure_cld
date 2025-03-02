@@ -1,12 +1,11 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+
 *.so
 
-# Distribution / packaging
+
 .Python
 build/
 develop-eggs/
@@ -24,7 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# Unit test / coverage reports
+#  coverage reports
 htmlcov/
 .tox/
 .coverage
@@ -44,16 +43,16 @@ ENV/
 env.bak/
 venv.bak/
 
-# VSCode
+
 .vscode/
 
-# PyCharm
+
 .idea/
 
-# Project specific
+
 logs/
 temp/
 *.db
 
-# Azure specific
+
 .azure/
